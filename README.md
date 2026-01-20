@@ -11,6 +11,7 @@ This repository documents real-world experiences and insights from design system
 ### Component API Design
 
 - [**Eliminating Repeated className Patterns**](./skills/component-refactoring/repeated-classnames.md) - When the same className structure appears 3+ times, refactor it into a props-based API
+- [**Handling Empty Object Overrides**](./skills/component-api-design/empty-object-defaults.md) - Protect component defaults from being overridden by empty objects
 
 ### Coming Soon
 
