@@ -13,6 +13,10 @@ This repository documents real-world experiences and insights from design system
 - [**Eliminating Repeated className Patterns**](./skills/component-refactoring/repeated-classnames.md) - When the same className structure appears 3+ times, refactor it into a props-based API
 - [**Handling Empty Object Overrides**](./skills/component-api-design/empty-object-defaults.md) - Protect component defaults from being overridden by empty objects
 
+### UX Writing
+
+- [**Concise Navigation Labels**](./skills/ux-writing/concise-navigation-labels.md) - Menu labels should be as short as possible while remaining clear - remove redundant verbs and qualifiers
+
 ### Coming Soon
 
 - Backward Compatibility Strategies
@@ -61,4 +65,13 @@ MIT - Feel free to use these insights in your own projects.
 
 ---
 
-**Start here**: [Eliminating Repeated className Patterns](./skills/component-refactoring/repeated-classnames.md) - Learn how to identify and refactor repeated className patterns into cleaner props-based APIs.
+## Recent Updates
+
+- **January 2026**: Added [Concise Navigation Labels](./skills/ux-writing/concise-navigation-labels.md) - Learn how to simplify menu text for better UX
+
+---
+
+**Start here**:
+
+- For component developers: [Eliminating Repeated className Patterns](./skills/component-refactoring/repeated-classnames.md)
+- For UX writers: [Concise Navigation Labels](./skills/ux-writing/concise-navigation-labels.md)
